@@ -46,3 +46,7 @@
 
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
+
+src-miniupnpd-miniupnpd-nftables
+make package/feeds/packages/miniupnpd/compile
+
