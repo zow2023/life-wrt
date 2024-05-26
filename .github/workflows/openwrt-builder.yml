@@ -18,7 +18,7 @@ on:
 
 env:
   #REPO_URL: https://github.com/ikghx/openwrt-life
- REPO_URL: https://github.com/luckyyyyy/openwrt
+  REPO_URL: https://github.com/luckyyyyy/openwrt
   REPO_BRANCH: 22.03
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: luck8450.config
