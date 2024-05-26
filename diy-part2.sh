@@ -20,7 +20,7 @@
 #git clone https://github.com/pymumu/luci-app-smartdns.git -b lede feeds/luci/applications/luci-app-smartdns/
 #git clone https://github.com/kingyond/luci-app-accesscontrol-plus package/luci-app-accesscontrol-plus
 #git clone https://github.com/sirpdboy/luci-app-parentcontrol package/luci-app-parentcontrol
-rm -rf feeds/packages/net/xray-core
+#rm -rf feeds/packages/net/xray-core
 #rm -rf feeds/packages/net/chinadns-ng
 #rm -rf feeds/luci/applications/luci-app-passwall
 
@@ -34,14 +34,15 @@ rm -rf feeds/packages/net/xray-core
 #rm -rf feeds/packages/net/{alist,adguardhome,mosdns,xray*,v2ray*,v2ray*,sing*,smartdns}
 #rm -rf feeds/packages/utils/v2dat
 
-rm -rf feeds/packages/lang/golang
-git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
+#rm -rf feeds/packages/lang/golang
+#git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
 
 #find ./ | grep Makefile | grep v2ray-geodata | xargs rm -f
 #find ./ | grep Makefile | grep mosdns | xargs rm -f
 
 #git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
 #git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
+
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
