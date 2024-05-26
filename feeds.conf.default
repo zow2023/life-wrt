@@ -7,7 +7,7 @@
 #src-git kenzo https://github.com/kenzok8/openwrt-packages
 #src-git small https://github.com/kenzok8/small
 #src-git  kiddin9 https://github.com/kiddin9/openwrt-packages
-src-git packages https://github.com/zow2023/packages.git;openwrt-23.05
+src-git packages https://github.com/ikghx/packages.git;openwrt-23.05
 src-git luci https://github.com/ikghx/luci.git;openwrt-23.05
 src-git routing https://github.com/ikghx/routing.git;openwrt-23.05
 #src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-23.05
