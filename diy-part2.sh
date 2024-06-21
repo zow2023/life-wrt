@@ -21,7 +21,7 @@
 git clone https://github.com/CrazyPegasus/luci-app-accesscontrol-plus package/luci-app-accesscontrol-plus
 git clone https://github.com/sirpdboy/luci-app-parentcontrol package/luci-app-parentcontrol
 git clone https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
-git clone https://github.com/sirpdboy/myautocore package/myautocore
+
 #rm -rf feeds/packages/net/xray-core
 #rm -rf feeds/packages/net/chinadns-ng
 #rm -rf feeds/luci/applications/luci-app-passwall
