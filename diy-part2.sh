@@ -37,8 +37,8 @@ git clone https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplu
 #rm -rf feeds/packages/utils/v2dat
 #rm -rf feeds/packages/net/adguardhome
 
-rm -rf feeds/packages/lang/golang
-git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
+#rm -rf feeds/packages/lang/golang
+#git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
 
 #find ./ | grep Makefile | grep v2ray-geodata | xargs rm -f
 #find ./ | grep Makefile | grep mosdns | xargs rm -f
