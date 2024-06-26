@@ -19,9 +19,9 @@ on:
 env:
   #REPO_URL: https://github.com/ikghx/openwrt-life
   REPO_URL: https://github.com/zow2023/openwrt
-  REPO_BRANCH: v22.03.6
+  REPO_BRANCH: v23.05.0
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: 2306.config
+  CONFIG_FILE: 2305.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: false
